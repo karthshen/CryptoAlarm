@@ -1,0 +1,19 @@
+{
+  "name": "cryptoalarm",
+  "version": "1.0.0",
+  "description": "Crypto Alarm project that sends alarms of cryptocurrencies based on technical indicators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthshen/CryptoAlarm.git"
+  },
+  "author": "karthshen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karthshen/CryptoAlarm/issues"
+  },
+  "homepage": "https://github.com/karthshen/CryptoAlarm#readme"
+}
